@@ -5,7 +5,7 @@
 # Enable Home Assistant API
 api:
   encryption:
-    key: "qsavIg1k2i5mdX7y/I+3veujsHljDTJr7OPwrFehRew="
+    key: "xxxxxxxxxxxxxx"
 
 ota:
 
