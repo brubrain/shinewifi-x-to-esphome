@@ -1,4 +1,4 @@
-ESPHome integration working with HomeAssistant
+ESPHome integration working with HomeAssistant. 10 seconds update interval of inverter data to HomeAssistant integration.
 
 ## How to flash
 
@@ -11,5 +11,5 @@ ESPHome integration working with HomeAssistant
 - Modify the shinewifi-x.yaml with your data (xxx fields) and upload file to stick
 - Remove the stick from your PC
 - Remove the connection between GPIO0 and GND
-- Add housing for the stick and connect it to your growatt 
+- Add housing for the stick and connect it to your growatt inverter
 - Add Stick as new integration to your HomeAssistant
